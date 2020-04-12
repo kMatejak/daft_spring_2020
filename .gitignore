@@ -179,3 +179,5 @@ dist
 
 # all jetbrains stuff
 .idea
+
+dist/
